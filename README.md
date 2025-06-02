@@ -1,4 +1,4 @@
-## 🧺 Laundry App
+## To Do App
 A simple and modern task management app that helps users stay organized by allowing them to add tasks, set deadlines, and prioritize what matters most.
 ![7](https://github.com/user-attachments/assets/de6154c6-0d7c-4dd4-a96b-2d844d49b033)
 ![6](https://github.com/user-attachments/assets/b44c7369-6331-4815-b7b9-5ab422a727cb)
