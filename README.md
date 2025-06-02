@@ -1,75 +1,43 @@
-# 📝 To-Do App Development
+## 🧺 Laundry App
+A simple and modern task management app that helps users stay organized by allowing them to add tasks, set deadlines, and prioritize what matters most.
+![7](https://github.com/user-attachments/assets/de6154c6-0d7c-4dd4-a96b-2d844d49b033)
+![6](https://github.com/user-attachments/assets/b44c7369-6331-4815-b7b9-5ab422a727cb)
 
-![To-Do App](https://paper-attachments.dropboxusercontent.com/s_00CD5CACA09F1C68917B504E80CC816F26752426CE251F931A757D85A4A86FEC_1734423199269_image.png)
 
----
+## 📱 Features
 
-## 📘 Introduction
+🧾 User Registration – Create an account to manage your tasks securely.
 
-The goal of this project is to develop a **To-Do Application**. This app will allow users to manage their daily tasks efficiently by adding, organizing, and viewing tasks. You will focus on creating a polished, functional app with a **user-friendly design**.
+➕ Add Task – Enter task name and description in a clean, user-friendly form.
 
-The app will include several features and screens, such as:
+🗓️ Pick Date & Time – Choose when the task is due using built-in date & time pickers.
 
-- Intro Screens for welcoming the user.
-- Login & Register screens for user authentication.
-- A Home Screen for managing tasks.
-- A Calendar Screen for viewing tasks by date.
-- A Settings Screen for customization.
+⚡ Set Priority – Assign a priority level to each task for better organization.
 
----
 
-## 📱 Core Functionality
+## 🧰 Tech Stack
+- Flutter (latest version)
 
-- Intro Screens  
-- Login & Register Screens  
-- Home Screen (Index)  
-- Category Screens  
-- Task Screen  
-- Calendar Screen  
-- User Profile Screen  
-- Settings Screen  
+- Dart
 
----
+🚀 Installation
+bash
+Copy
+Edit
+git clone https://github.com/shtwaijri/To-Do-App.git
+cd App-Design-Implementation
+flutter pub get
+flutter run
 
-## 🔧 Concepts to Implement
+## 🧑‍💻 How to Use
+Launch the app.
 
-- Custom Theme Design  
-- Form Validation  
-- Localization Support  
-- BLoC Pattern  
-- Supabase Integration  
-- Dependency Injection using GetIt  
+Go through the intro screens or skip them.
 
-> **Note:**  
-> _All logical operations should be performed within the interface._
+Sign up or log in to your account.
 
----
+Browse laundries
 
-## 🎨 Figma Design
+## 👩‍💻 Author
+Shatha Altwaijri
 
-- [Figma Design Link (Main)](https://www.figma.com/design/uRS0DgqudB60wE47MadsFB/todo-app?node-id=1-16749&t=BWTFqAeY2FjwyIRe-1)  
-- [Figma Design Link (Alternative)](https://www.figma.com/design/uRS0DgqudB60wE47MadsFB/todo-app?node-id=1-16749&t=BWTFqAeY2FjwyIRe-1)
-
----
-
-## 💻 GitHub Submission Guidelines
-
-- Your pull request must include a **well-structured `README.md` file**.
-- The README should include:
-  - Description of the project  
-  - Setup instructions  
-  - A screenshot of your app  
-
----
-
-## ⏰ Deadline
-
-**Your project must be submitted by June 2, before 10:00 AM.**
-
----
-
-## 🌟 Reminder
-
-> Dream big,  
-> Code smart,  
-> And never stop learning. 🌠💡
