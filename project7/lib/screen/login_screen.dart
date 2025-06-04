@@ -1,7 +1,7 @@
 import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
 import 'package:project7/controller/validator.dart';
-import 'package:project7/screen/bottom_nav_bar.dart';
+import 'package:project7/screen/nav/bottom_nav_screen.dart';
 import 'package:project7/screen/signup_screen.dart';
 
 class LoginScreen extends StatefulWidget {
@@ -113,7 +113,7 @@ class _LoginScreenState extends State<LoginScreen> {
                               Navigator.push(
                                 context,
                                 MaterialPageRoute(
-                                  builder: (context) => const BottomNavBar(),
+                                  builder: (context) => const BottomNavScreen(),
                                 ),
                               );
                             }

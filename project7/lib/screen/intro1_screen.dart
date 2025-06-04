@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:project7/screen/intro2_screen.dart';
-import 'package:project7/screen/splash_screen.dart';
+import 'package:project7/splash/splash_screen.dart';
 
 class Intro1Screen extends StatelessWidget {
   const Intro1Screen({super.key});

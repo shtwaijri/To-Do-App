@@ -4,8 +4,8 @@ class Validator {
   final passwordControlle = TextEditingController();
   final userNameCotroller = TextEditingController();
   final ConfirmpasswordControlle = TextEditingController();
-  final task = TextEditingController();
-  final taskDescription = TextEditingController();
+  final TextEditingController taskController = TextEditingController();
+  final TextEditingController taskDescription = TextEditingController();
 
   static String? validatePassword(String? value) {
     {
